@@ -3,13 +3,13 @@
 </p>
 <p align="center">Open-Source P2P Social Media To Overload Your Dopamine!</p>
 <p align="center">
-  <a href="#key-features">Key Features</a> •
-  <a href="#installation">Installation</a>
+  <a href="#-key-features">Key Features</a> •
+  <a href="#-installation">Installation</a>
 </p>
 
-# This Project Is Not Ready Yet!
+# ⚠️ This Project Is Not Ready Yet!
 
-# Key Features
+# 🍭 Key Features
 
 * ୨ৎ Strict Content Management
   - When you upload a video we watch it first before it reaches to community
@@ -24,7 +24,7 @@
 
 <img width="256" src="./public/screenshot.png"/>
 
-# Installation
+# 🎀 Installation
 
 Here's the installation script, run `bun run dev` when you're ready!! (˶ᵔ ᵕ ᵔ˶)‹𝟹
 
