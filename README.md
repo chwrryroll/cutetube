@@ -15,7 +15,7 @@
 - [ ] Implement API client for [PeerTube](https://joinpeertube.org/)
 - [ ] Convert the app to a PWA
 
-# 🍭 Key Features
+# 💕 Key Features
 
 * ୨ৎ Strict Content Management
   - When you upload a video we watch it first before it reaches to community
