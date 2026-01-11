@@ -34,3 +34,10 @@ git clone https://github.com/chwrryroll/cutetube.git
 cd cutetube
 bun install
 ```
+
+# 💕 Todo List
+
+[ ] Complete the UI \
+[ ] Implement [Gun.js](https://github.com/amark/gun) \
+[ ] Implement API client for [PeerTube](https://joinpeertube.org/) \
+[ ] Convert the app to a PWA \
