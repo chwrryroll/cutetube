@@ -1,0 +1,41 @@
+.tabbar
+  position   : fixed
+  background : black
+  bottom     : 0em
+  width      : 100%
+  height     : 3.5rem
+  .container
+    display         : flex
+    align-items     : center
+    justify-content : space-between
+    padding         : 0 12px
+    height          : 100%
+  .tabbar__tab
+    display         : flex
+    flex-direction  : column
+    align-items     : center
+    justify-content : center
+    color           : white
+    opacity         : 0.5
+  .tabbar__tab--active
+    opacity: 1
+  .tab__icon
+    width  : 24px
+    height : 24px
+  .tab__title
+    font-size: 10px
+  .tabbar__tab--add
+    opacity: 1
+    &::after
+      content       : ""
+      position      : absolute
+      width         : 2.5rem
+      height        : 2.5rem
+      border-radius : 100%
+      box-shadow    : (rgba(240, 46, 170, 0.4)  -1px  0px,
+                       rgba(240, 46, 170, 0.2)  -8px  0px,
+                       rgba(240, 46, 170, 0.4)   1px  0px,
+                       rgba(240, 46, 170, 0.2)   8px  0px)
+    .tab__icon
+      width: 2.5rem
+      height: 2.5rem
