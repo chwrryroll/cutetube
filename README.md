@@ -9,11 +9,11 @@
 
 # ⚠️ This Project Is Not Ready Yet!
 
-[x] Just start! \
-[ ] Complete the UI \
-[ ] Implement [Gun.js](https://github.com/amark/gun) \
-[ ] Implement API client for [PeerTube](https://joinpeertube.org/) \
-[ ] Convert the app to a PWA \
+- [x] Just start! \
+- [ ] Complete the UI \
+- [ ] Implement [Gun.js](https://github.com/amark/gun) \
+- [ ] Implement API client for [PeerTube](https://joinpeertube.org/) \
+- [ ] Convert the app to a PWA \
 
 # 🍭 Key Features
 
