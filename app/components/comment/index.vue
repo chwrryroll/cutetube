@@ -12,7 +12,7 @@
         OMG SO CUTEE!!! PLEASE MAKE MORE VIDEOS LIKE THIS!!
       </p>
       <div class="flex flex-col items-center gap-1 text-gray-400 ml-auto">
-        <UIcon name="solar:heart-outline" class="size-4" />
+        <Icon name="solar:heart-outline" class="size-4" />
         <span class="text-xs">1k</span>
       </div>
     </div>
