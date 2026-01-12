@@ -10,7 +10,9 @@
 # ⚠️ This Project Is Not Ready Yet!
 
 - [x] Just start!
-- [ ] Complete the UI
+- [x] Scrolling animations
+- [ ] Direct Messages Page
+- [ ] Comment Section 
 - [ ] Implement [Gun.js](https://github.com/amark/gun)
 - [ ] Implement API client for [PeerTube](https://joinpeertube.org/)
 - [ ] Convert the app to a PWA
