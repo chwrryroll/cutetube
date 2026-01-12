@@ -10,9 +10,8 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
-    "@nuxt/hints": "1.0.0-alpha.5",
-    "@nuxt/image": "2.0.0",
-    "@nuxt/ui": "^4.3.0",
+    "@nuxt/hints": "^1.0.0-alpha.5",
+    "@nuxt/image": "^2.0.0",
     "@tailwindcss/vite": "^4.1.18",
     "nuxt": "^4.2.2",
     "sass": "^1.97.2",
@@ -21,6 +20,8 @@
     "vue-router": "^4.6.4"
   },
   "devDependencies": {
+    "@nuxt/icon": "^2.2.0",
+    "@iconify-json/solar": "^1.2.5",
     "daisyui": "^5.5.14"
   }
 }

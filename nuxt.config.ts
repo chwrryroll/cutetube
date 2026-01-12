@@ -20,8 +20,13 @@ export default defineNuxtConfig({
       ],
     },
   },
-  ui: {
-    fonts: false
+  icon: {
+    mode: 'css',
+    cssLayer: 'base',
+    fallbackToApi: true,
+    serverBundle: {
+      collections: ['solar']
+    }
   },
-  modules: ['@nuxt/image', '@nuxt/hints', '@nuxt/ui']
+  modules: ['@nuxt/image', '@nuxt/hints', '@nuxt/icon']
 })
