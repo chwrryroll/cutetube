@@ -2,33 +2,33 @@
   @use "./style.sass";
 </style>
 <template>
-  <nav class="tabbar md:hidden">
+  <nav class="navbar md:hidden">
     <ol class="container">
       <li>
-        <div class="tabbar__tab tabbar__tab--active">
+        <div class="navbar__tab navbar__tab--active">
           <Icon class="tab__icon" name="solar:home-smile-angle-broken" />
           <p class="tab__title">Home</p>
         </div>
       </li>
       <li>
-        <div class="tabbar__tab">
+        <div class="navbar__tab">
           <Icon class="tab__icon" name="solar:chat-dots-broken"/>
           <p class="tab__title">Inbox</p>
         </div>
       </li>
       <li>
-        <div class="tabbar__tab tabbar__tab--add">
+        <div class="navbar__tab navbar__tab--add">
           <Icon class="tab__icon" name="solar:add-circle-bold" />
         </div>
       </li>
       <li>
-        <div class="tabbar__tab">
+        <div class="navbar__tab">
           <Icon class="tab__icon" name="solar:bell-broken" />
           <p class="tab__title">Pings</p>
         </div>
       </li>
       <li>
-        <div class="tabbar__tab">
+        <div class="navbar__tab">
           <Icon class="tab__icon" name="solar:user-circle-bold" />
           <p class="tab__title">Profile</p>
         </div>
