@@ -11,10 +11,11 @@
 
 - [x] Just start!
 - [x] Scrolling animations
-- [ ] Profile Page
-- [ ] Customizable Avatar
-- [ ] Direct Messages Page
-- [ ] Comment Section
+- [x] Notifications page
+- [ ] Profile page
+- [ ] Customizable avatars
+- [ ] Direct messages page
+- [ ] Comment section
 - [ ] Implement [Gun.js](https://github.com/amark/gun)
 - [ ] Implement API client for [PeerTube](https://joinpeertube.org/)
 - [ ] Convert the app to a PWA
