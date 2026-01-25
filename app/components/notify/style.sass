@@ -1,0 +1,62 @@
+.notify
+  background    : var(--color-gray-200)
+  border-radius : 16px
+  margin        : 8px
+  height        : 100%
+  .container
+    display      : flex
+    align-items  : center
+    padding      : 12px 6px
+    padding-left : 12px
+    gap          : 12px
+  .notify__thumbnail
+    position      : relative
+    background    : var(--color-red-300)
+    border-radius : 12px
+    width         : 5rem
+    height        : 5rem
+    .thumbnail__badge
+      position      : absolute
+      background    : white
+      width         : 2rem
+      height        : 2rem
+      bottom        : -4px
+      right         : -4px
+      border-radius : 100%
+      padding       : 4px
+  .notify__content
+    margin-left: 8px
+    .content__title
+      font-size   : 14px
+    .content__message
+      font-size   : 18px
+      line-height : 28px
+  .notify__toggle
+    cursor       : pointer
+    margin-left  : auto
+    margin-right : 4px
+    opacity      : 0.4
+
+.popup
+  animation: Open 0.5s ease-in-out forwards;
+
+.slide-enter-active,
+.slide-leave-active
+  transition : height 0.5s ease, opacity 0.6s ease
+  overflow   : hidden
+
+.slide-enter-from,
+.slide-leave-to
+  height  : 0
+  opacity : 0
+
+.slide-enter-to,
+.slide-leave-from
+  height  : 100lvh
+  opacity : 1
+
+@keyframes Open
+  to
+    height         : 100lvh
+    padding-top    : 0.2rem
+    padding-bottom : 5rem
