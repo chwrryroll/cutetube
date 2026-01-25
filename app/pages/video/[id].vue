@@ -48,5 +48,4 @@
       <Scroller class="vcontainer" v-for="image in ['/bunny.mp4', '/bunny.mp4']" :url="image" />
     </div>
   </div>
-  <Navbar/>
 </template>
