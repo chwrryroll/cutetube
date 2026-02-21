@@ -1,7 +1,7 @@
 <p align="center">
   <img width="64" src="./public/logo.png"/>
 </p>
-<p align="center">Open-Source P2P Social Media To Overload Your Dopamine!</p>
+<p align="center">Yet Another Social Media... But Bunnies Are Everywhere!</p>
 <p align="center">
   <a href="#-key-features">Key Features</a> •
   <a href="#-installation">Installation</a>
@@ -16,7 +16,7 @@
 - [ ] Customizable avatars
 - [ ] Direct messages page
 - [ ] Comment section
-- [ ] Implement [Gun.js](https://github.com/amark/gun)
+- [ ] A backend service for everything (idk how does list goes on)
 - [ ] Implement API client for [PeerTube](https://joinpeertube.org/)
 - [ ] Convert the app to a PWA
 
@@ -25,13 +25,11 @@
 * ୨ৎ Strict Content Management
   - When you upload a video we watch it first before it reaches to community
   - Every video should be about **cute pet videos**, other genres can't be shared
-* ୨ৎ Easy to Sign up
+* ୨ৎ Just use
   - Creating an account is optional if you'll only scroll videos
-  - No email needed just write your username and password then you are in!
 * ୨ৎ Socialize
-  - Liked a video? Why don't you share it with others
-  - Messages are sent via WebSockets over the server, they get removed once you logout
-  - You can send messages to everyone if they are active
+  - You can share posts with everyone if they are just active
+  - Sending text messages are only allowed among of friends
 
 <img width="256" src="./public/screenshot.png"/>
 

@@ -13,7 +13,6 @@
     "@nuxt/hints": "^1.0.0-alpha.5",
     "@nuxt/image": "^2.0.0",
     "@tailwindcss/vite": "^4.1.18",
-    "gun": "^0.2020.1241",
     "motion-v": "^1.8.1",
     "nuxt": "^4.2.2",
     "pinia": "^3.0.4",
